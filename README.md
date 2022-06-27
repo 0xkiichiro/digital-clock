@@ -1,1 +1,1 @@
-[gif](https://github.com/0xkiichiro/digital-clock/blob/master/Animation.gif)
+[](https://github.com/0xkiichiro/digital-clock/blob/master/Animation.gif)
